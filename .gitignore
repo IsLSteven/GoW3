@@ -1,0 +1,9 @@
+﻿# Dados gerados ao jogar / arquivos do jogo - nunca versionar
+user/
+out/
+gow3.ini
+__pycache__/
+*.pyc
+*.pkg
+eboot.bin
+*.sfo
